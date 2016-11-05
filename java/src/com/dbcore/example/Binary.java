@@ -17,6 +17,6 @@ return false;
 }
 copyOfInput = copyOfInput / 10;
 }
-retrun true;
+return true;
 }
 }

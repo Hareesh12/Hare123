@@ -18,7 +18,7 @@ if ( j==1){
 System.out.println("It is a magic number ");
 }else{
 System.out.println("Not a magic number");
-}j
+}
 }
 
 

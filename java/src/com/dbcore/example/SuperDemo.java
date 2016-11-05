@@ -8,7 +8,7 @@ b=y;
 System.out.println("Super class constructor called ");
 }
 }
-public class SubDemo extends SuperDemo{
+ class SubDemo extends SuperDemo{
 int a,b;
 public SubDemo(int x, int y){
 super(10,20);
